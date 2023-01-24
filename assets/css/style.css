@@ -873,6 +873,7 @@ display: block;
     /* white-space: pre-line; */
     width: 60%;
     margin-top: 5px;
+    padding-right: 5px;
   }
   .copyright-link{
     text-decoration: none;
@@ -881,7 +882,7 @@ display: block;
 
 .hero-title {
   
-  font-size: 3rem;
+  font-size: 2.6rem;
   
 }
 
