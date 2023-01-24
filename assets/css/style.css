@@ -864,18 +864,18 @@ display: block;
 /**
  * responsive for larger than 550px screen
  */
- @media (max-width:375px){
+ /* @media (max-width:375px){
   .text1{
     font-size: 1.7rem;
     /* white-space: pre-line; */
-  }
+  /* }
   .copyright-link{
     text-decoration: none;
   }
-}
+/* } */ 
 @media (max-width:450px){
   .text1{
-    font-size: 1.9rem;
+    font-size: 1.7rem;
     /* white-space: pre-line; */
   }
   .copyright-link{
